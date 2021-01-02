@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 by Roy G. Biv
 
 Red
@@ -8,5 +8,6 @@ Green
 Blue
 Indigo
 Violet
+Unicorn
 
-These are the colors of the rainbow.
+These are the colors of the rainbow unicorn.
